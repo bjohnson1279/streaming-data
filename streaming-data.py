@@ -152,8 +152,8 @@ class StreamingDataFetcher:
 # --- Example Usage ---
 if __name__ == '__main__':
     # Replace with your actual Spotify Client ID and Client Secret
-    SPOTIPY_CLIENT_ID = "ed6cf0319dc74d9c856adca21c6d8c0e"
-    SPOTIPY_CLIENT_SECRET = "486243187de94e1784b5ac4bafe9ee45"
+    SPOTIPY_CLIENT_ID = ""
+    SPOTIPY_CLIENT_SECRET = ""
     YT_MUSIC_AUTH_FILE = "headers_auth.json" # Or 'oauth.json' if that's what YTMusic.setup() generated
 
     # Verify that you've replaced the placeholders
